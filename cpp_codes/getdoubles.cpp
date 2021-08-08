@@ -1,5 +1,5 @@
 /* given an integer, create an array. Make a loop that fills in each array entry
-with the value of the element number, starting with 1 */
+with the value of the element number (starting with 1) divided by 3s */
 
 #include <iostream>
 using namespace std;
